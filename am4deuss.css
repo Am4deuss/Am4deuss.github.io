@@ -1,0 +1,17 @@
+:root{
+    --bg-color: #212121;
+    --acc-color1: #FFAB00;
+    --acc-color2: #FDD835;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    background-color: var(--bg-color);
+    width: 100%;
+    height: 300px;
+}
